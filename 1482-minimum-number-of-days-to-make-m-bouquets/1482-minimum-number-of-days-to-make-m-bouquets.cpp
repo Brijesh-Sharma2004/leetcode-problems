@@ -2,8 +2,9 @@ class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int low = 1, high = *max_element(bloomDay.begin(),bloomDay.end()); 
+        long long requiredFlowers = 1LL * m * k;
 
-        if(1LL * m * k > bloomDay.size()) return -1;
+        if(requiredFlowers > bloomDay.size()) return -1;
 
         while(low < high) {
             int mid = low + (high - low) / 2;
