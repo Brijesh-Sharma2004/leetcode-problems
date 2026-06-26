@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -78,8 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
