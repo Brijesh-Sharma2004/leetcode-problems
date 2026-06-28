@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
 |  |
 | ------- |
@@ -110,10 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Queue
 |  |
 | ------- |
