@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0239-sliding-window-maximum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
