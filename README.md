@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0239-sliding-window-maximum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -158,8 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
