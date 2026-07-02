@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
