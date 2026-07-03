@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0567-permutation-in-string) |
 ## Matrix
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
 | ------- |
