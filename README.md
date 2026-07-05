@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2104-sum-of-subarray-ranges](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Union-Find
 |  |
 | ------- |
