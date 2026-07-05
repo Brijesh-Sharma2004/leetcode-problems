@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -242,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
