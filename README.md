@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
