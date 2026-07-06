@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -273,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
