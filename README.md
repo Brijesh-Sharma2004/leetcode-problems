@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0410-split-array-largest-sum) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Brijesh-Sharma2004/leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
