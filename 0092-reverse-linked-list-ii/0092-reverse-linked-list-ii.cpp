@@ -11,6 +11,10 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
+        if (head == NULL || left == right) {
+        return head;
+    }
+    
         ListNode dummy(-1);
         dummy.next = head;
         ListNode* prev = &dummy;
@@ -33,7 +37,7 @@ public:
             p = curr;
             curr = nextNode; 
         }
-        if(prev != NULL && prev->next != NULL) {
+        if(prev->next != NULL) {
         prev->next = Right;
         }
 
