@@ -21,6 +21,9 @@ public:
             len = len->next;
         }
         k = k % length;
+        
+        if (k == 0) return head;
+
         len->next = head;
         ListNode* curr = head;
 
